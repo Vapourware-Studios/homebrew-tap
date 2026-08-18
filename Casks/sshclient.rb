@@ -1,6 +1,6 @@
 cask "sshclient" do
-  version "0.1.6"
-  sha256 "65f942bfb12299a5259bafda545617c8b0d4c4e21e92e8d59f331625ab4558ac"
+  version "0.1.7"
+  sha256 "54d5cd9870f8a50c3867888506a4c9a85b4c70c00ccba1c88ef37a2e0958d080"
 
   url "https://github.com/Vapourware-Studios/sshclient/releases/download/v#{version}/SSH-Client-#{version}-arm64.dmg",
       verified: "github.com/Vapourware-Studios/sshclient/"
